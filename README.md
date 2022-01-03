@@ -1,2 +1,2 @@
 # Algorithm-Practice
-Algorithm Practice Repository
+각종 알고리즘에 관련된 문제 풀이 및 개념 이해를 위한 소스를 모아놓은 레포지토리입니다.
